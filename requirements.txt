@@ -1,0 +1,2 @@
+mypy===0.740
+scikit-learn===0.21.3
